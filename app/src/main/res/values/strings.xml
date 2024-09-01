@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="helloworld">HelloWorld</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="tip">Tip</string>
+    <string name="_24">24%</string>
+    <string name="base">Base</string>
+    <string name="_19_96">19.96</string>
+    <string name="_103_11">103.11</string>
+    <string name="total">Total</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="made_by_me">Made By Me ❤️</string>
+</resources>
